@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.feldev.hud_info.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "HudInfoMod.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
